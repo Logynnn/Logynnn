@@ -1,7 +1,5 @@
 ### Hi 👋
 
-I'm Luiz, also called Logyn, 15y. I develop bots for Discord and Web Applications
-
 - ❤ HTML, JavaScript, Express, React
 - 🌱 Currently learning Python
 - 📫 Discord: Logyn#6333
